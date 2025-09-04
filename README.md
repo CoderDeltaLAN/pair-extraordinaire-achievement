@@ -2,4 +2,4 @@
 
 Minimal repo for co-authored PR test.
 
-<!-- docs: co-author validation pass 2 -->
+<!-- docs: co-author validation pass 3 -->
